@@ -2,6 +2,9 @@
 
 A professional, highly customizable React admin dashboard template with a comprehensive collection of UI components built with React Bootstrap. This reusable dashboard solution provides everything you need to quickly develop modern, responsive admin interfaces.
 
+## Note ! 
+This repository contains only partial code. The complete project, including the backend, admin portal, and API integrations, is private. For access, please contact me via http://nishchay.online.
+
 ## Features
 
 - **Modern React Architecture** - Built with React 18 and React Bootstrap
